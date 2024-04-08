@@ -1,2 +1,2 @@
- ## ** Note**
+ ##  Note
 coursera meta course
